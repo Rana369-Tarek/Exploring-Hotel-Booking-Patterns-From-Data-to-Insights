@@ -1,0 +1,2 @@
+# Exploring-Hotel-Booking-Patterns-From-Data-to-Insights
+ Exploratory Data Analysis (EDA): Understanding booking patterns and data distributions.  Booking Trends: Identifying seasonal patterns and customer decision factors.  Cancellation Insights: Analyzing the reasons behind cancellations and extracting actionable insights to minimize them.  Predictive Modeling:  modelsLogistic Regression and XGBoost
